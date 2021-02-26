@@ -2,7 +2,7 @@
  
 DisinfoNews is a bot that tracks disinformation related news. 
 
-You can pay visit it here: https://twitter.com/DisinfoNews
+You can visit it here: https://twitter.com/DisinfoNews
 
 The version v1 is launched on February 2019 and retweeted 2500 tweets from popular news sources in 2 years.
 
