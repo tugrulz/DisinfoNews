@@ -26,4 +26,3 @@ coordinated
 polarization
 echo chamber
 filter bubble
-trending
